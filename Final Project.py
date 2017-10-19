@@ -2,7 +2,7 @@
 # Author: Abdirahman Mohamed
 # Username: mohameda
 # Assignment: P0: Final Project
-# Credits: Dr. Scott Heggen and Vincent Davis
+# Aknowledgments: Dr. Scott Heggen and Vincent Davis
 # Purpose: Synthesize element of learning from the entire course into a single, final project
 # Game Name: Ya Tseeb o Tkheeb
 # The game is basically a cards game where two people play against each other and who ever has two kings will win the game.
