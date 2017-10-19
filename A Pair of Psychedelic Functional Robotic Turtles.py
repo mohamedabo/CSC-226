@@ -1,6 +1,6 @@
 #####################################################################
-# Author: Dr. Scott Heggen              TODO: Abdirahman Mohamed
-# Username: heggens                     TODO: Mohameda
+# Author: Abdirahman Mohamed
+# Username: Mohameda
 #
 # Assignment: A3:  A Pair of Psychedelic Functional Robotic Turtles
 # Purpose: To very simply demonstrate the turtle library to demo shapes and using images for shapes
