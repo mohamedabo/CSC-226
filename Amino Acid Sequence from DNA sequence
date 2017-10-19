@@ -1,14 +1,14 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Abdirahman Mohamed
-# Username: heggens             TODO: mohameda
+# Author: Abdirahman Mohamed
+# Username: mohameda
 #
 # Assignment: A6: It's in your Genes
 #
 # Purpose: Determine an amino acid sequence given an input DNA sequence
 #
 ######################################################################
-# Acknowledgements:
-#   Original Author: Dr. Jan Pearce
+# 
+#   
 #
 #   Idea from: http://www.cs.uni.edu/~schafer/1140/assignments/pa9/index.htm
 #
