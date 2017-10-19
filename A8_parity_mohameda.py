@@ -2,9 +2,12 @@
 # Author:Abdirahman Mohamed
 # Username:mohameda
 #
-# Assignment: A8: It's in your Genes
+# Assignment: A8: Error Detection
 #
-# Purpose: Determine an amino acid sequence given an input DNA sequence
+# Purpose: More practice breaking a larger problem down into smaller pieces using functions
+#Gain practice using strings
+#Introduce concepts about binary and parity
+
 #
 ######################################################################
 #
