@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Abdirahman Mohamed
-# Username: heggens                     TODO: mohameda
+# Author: Abdirahman Mohamed
+# Username:  mohameda
 #
 # Assignment: A4:  A Bug's Life
 # Purpose: Learn the impact a bug can have in the real world. Explore life path numbers. Practice creating your own fruitful functions and Learn to use modulus to capture remainders
