@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen      TODO: Abdirahman Mohamed
-# Username: heggens             TODO: mohameda
+# Author: Abdirahman Mohamed
+# Username:  mohameda
 #
 # Assignment: A11: PPM
 #
@@ -10,9 +10,6 @@
 
 # ######################################################################
 # Acknowledgements:
-#
-# Original code written by Dr. Jan Pearce
-#
 # Ben Stephenson: http://pages.cpsc.ucalgary.ca/~jacobs/Courses/cpsc217/W10/code/Topic7/ppm.py
 # working from a class: http://bytes.com/topic/python/answers/520360-trouble-displaying-image-tkinter
 #
