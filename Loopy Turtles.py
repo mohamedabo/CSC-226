@@ -1,6 +1,6 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Abdirahman Mohamed
-# Username: heggens                     TODO: mohameda
+# Author: Abdirahman Mohamed
+# Username: mohameda
 #
 
 # Assignment: A2: Loopy Turtles
@@ -9,7 +9,7 @@
 ######################################################################
 # Acknowledgements:
 
-# originally created by Dr. Jan Pearce and Dr. Scott Heggen
+#
 
 # licensed under a Creative Commons
 # Attribution-Noncommercial-Share Alike 3.0 United States License.
